@@ -115,3 +115,10 @@ notebooks/cache/*
 onnx*
 *blob
 *.json
+*.flac
+*.trans*
+case*
+*.jpg
+000*
+*.gz
+
