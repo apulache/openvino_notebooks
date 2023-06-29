@@ -105,3 +105,13 @@ notebooks/*/output/**
 # cache directory
 notebooks/cache/*
 
+# Models
+*model*
+*.xml
+*.bin
+*.onnx
+*.bias
+*.weight
+onnx*
+*blob
+*.json
